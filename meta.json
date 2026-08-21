@@ -1,0 +1,28 @@
+{
+  "repo": "atlas-ti-qualitative-analysis-pro",
+  "product": "ATLAS Ti Qualitative Analysis Pro",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://atlas-ti.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "atlas-faq",
+    "atlas-setup-page",
+    "atlas-pc",
+    "install-atlas-windows",
+    "atlas-quick-start",
+    "atlas-build",
+    "install-guide",
+    "download-page",
+    "faq",
+    "workflow",
+    "toolkit",
+    "utility",
+    "configuration"
+  ],
+  "stars_cache": 13,
+  "nexpath_slug": "atlas-ti",
+  "nexpath_app_name": "ATLAS Ti"
+}
